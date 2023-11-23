@@ -11,3 +11,4 @@ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1
 pycountry==22.3.5
 fuzzywuzzy==0.18.0
 streamlit_extras==0.3.2
+streamlit-folium==0.16.0
